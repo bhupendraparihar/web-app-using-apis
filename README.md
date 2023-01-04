@@ -12,4 +12,6 @@ console.log(data)
 ```
 ## How to use leaflet
 
+```
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" />
+```
